@@ -1,0 +1,28 @@
+# Ignore Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Recordings/
+MemoryCaptures/
+SysInfo.txt
+
+# Ignore Visual Studio files
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Ignore other files
+*.unitypackage
+*.apk
+*.aab
+*.exe
+*.app
