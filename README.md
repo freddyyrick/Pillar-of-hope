@@ -1,19 +1,18 @@
-PILLAR OF HOPE — GAME CONCEPT DOCUMENT
+**PILLAR OF HOPE — GAME CONCEPT DOCUMENT**
 
-🗡️ Title / Theme
+**🗡️ Title / Theme**
 PILLAR OF HOPE
  “When darkness falls, only the blade can bring back the light.”
 A fast-paced 2D action hack-and-slash game where a lone swordsman battles twisted creatures to rescue his village and uncover the truth about an ancient curse.
 
-🌙 1. Story / Narrative
+**🌙 1. Story / Narrative**
 The peaceful village of Aldenheim is plunged into terror when horrifying, shapeless creatures emerge from the dark forest on a cold night. These beings, born from a reawakened ancient curse, devour everything in their path. In the chaos, many villagers,  including the protagonist’s family, are taken.
 From this tragedy rises one man:
 A villager turned swordsman, forged by loss and desperation. With no magic, no armor, and no allies, he becomes the last beacon of hope.
-His mission is simple yet deadly:
-Hunt. Slash. Survive.
+His mission is simple yet deadly: Hunt. Slash. Survive.
 He must cut through the horrors, rescue his people, and destroy the evil lurking deep within the cursed forest.
 
-🩸 2. Core Gameplay
+**🩸 2. Core Gameplay**
 Genre:
 2D Action-Adventure / Hack & Slash
 Combat System (Pure Melee Sword Combat):
@@ -30,7 +29,7 @@ Healing Potions scattered across the map
 No stamina, no mana — survive through reflex and timing
 
 
-👹 3. Enemy Types
+**👹 3. Enemy Types**
 Shadow Crawlers
 Fast, unpredictable, swarm-like
 Best countered with quick attacks and movement
@@ -47,7 +46,7 @@ Main boss, responsible for the curse
 Requires strong movement and precision to defeat
 Each enemy has unique behaviors, demanding adaptation and strategy.
 
-🧭 4. Goals & Objectives
+**🧭 4. Goals & Objectives**
 Main Objectives
 Rescue the people of Aldenheim by slaying all twisted monsters
 Explore haunted zones to find paths, loot, and healing potions
@@ -58,7 +57,7 @@ Save the protagonist’s kidnapped family
 Restore peace and hope
 
 
-🧍 5. Character Design: The Swordsman
+**🧍 5. Character Design: The Swordsman**
 Once a simple villager
 Becomes a warrior out of necessity
 Fast, agile, and determined
@@ -66,7 +65,7 @@ Wears light armor for speed
 Relies solely on his sword, instinct, and courage
 
 
-🗺️ 6. Game Features
+**🗺️ 6. Game Features**
 Fast-paced, skill-based sword combat
 Simple systems: Health bar + potion count only
 Healing pickups for longer survival
@@ -74,7 +73,7 @@ Healing pickups for longer survival
 Exploration-based level progression
 Story-driven boss encounters
 
-⚔️ 7. Core Gameplay Loop
+**⚔️ 7. Core Gameplay Loop**
 Enter an enemy-infested zone
 Fight through waves using sword attacks
 Pick up healing potions to stay alive
@@ -85,28 +84,18 @@ Face the Final Terror to restore peace
 
 This loop repeats and evolves with increasing difficulty, new enemy types, and narrative progression.
 
-🎮 8. Control Scheme
+**🎮 8. Control Scheme**
 Action
 Key/Button
 Description
-Move Left
-A / Left Arrow
-Move player left
-Move Right
-D / Right Arrow
-Move player right
-Jump
-Spacebar
-Player jumps
-Attack
-Left Mouse Button
-Sword attack
-Run
-Hold movement input
-Player runs instead of walking
+Move Left ->  A / Left Arrow -> Move player left
+Move Right -> D / Right Arrow -> Move player right
+Jump -> Spacebar -> Player jumps
+Attack ->  Left Mouse Button -> Sword attack
+Run -> Hold movement input -> Player runs instead of walking
 
 
-💻 9. Technical Specs
+**💻 9. Technical Specs**
 Platform: PC
 Engine: Unity
 Art Style: 2D pixel or voxel
@@ -114,7 +103,7 @@ HUD: Health bar + potion counter
 Input: Controller & keyboard support
 
 
-🌟 10. Player Fantasy / Promise
+**🌟 10. Player Fantasy / Promise**
 This is not a battle of magic or destiny — it is a battle of pure skill.
 Every strike matters.
 Every dodge is life or death.
@@ -123,4 +112,5 @@ Grab your sword.
 Face the darkness.
 Become the legend —
 Become the Pillar of Hope.
+
 
