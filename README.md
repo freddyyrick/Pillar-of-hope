@@ -1,114 +1,126 @@
-🗡️** HOPE**
-“When darkness falls, only the blade can bring back the light.”
+PILLAR OF HOPE — GAME CONCEPT DOCUMENT
 
-🌙 Story / Narrative
+🗡️ Title / Theme
+PILLAR OF HOPE
+ “When darkness falls, only the blade can bring back the light.”
+A fast-paced 2D action hack-and-slash game where a lone swordsman battles twisted creatures to rescue his village and uncover the truth about an ancient curse.
 
-Once a quiet and peaceful village, Aldenheim now trembles under the shadow of fear.
-On a cold night, creepy creatures emerged from the forest — twisted, shapeless beings that devour everything in their path. Villagers whisper of an ancient curse reawakened.
+🌙 1. Story / Narrative
+The peaceful village of Aldenheim is plunged into terror when horrifying, shapeless creatures emerge from the dark forest on a cold night. These beings, born from a reawakened ancient curse, devour everything in their path. In the chaos, many villagers,  including the protagonist’s family, are taken.
+From this tragedy rises one man:
+A villager turned swordsman, forged by loss and desperation. With no magic, no armor, and no allies, he becomes the last beacon of hope.
+His mission is simple yet deadly:
+Hunt. Slash. Survive.
+He must cut through the horrors, rescue his people, and destroy the evil lurking deep within the cursed forest.
 
-But amidst the terror, one man rises. A lone swordsman, forged by loss and fire, steps forward to protect the last light of humanity. With nothing but a blade, courage, and the will to survive, he will cut through the darkness and reclaim the land.
-
-Your mission: Hunt. Slash. Survive.
-
-🩸 Core Gameplay
-
-Genre: Action-Adventure / Hack & Slash
-
-**Combat:
-**
-Pure melee sword combat — fast, fluid, and brutal.
-
-Light attacks, heavy slashes, and precision strikes.
-
-
-
-**Health System:**
-
-A single Health Bar determines your survival.
-
-Collect Healing Potions scattered across the map to stay alive.
-
-No energy or magic bar — only skill and timing keep you alive.
-
-**👹 Enemies**
-
-Shadow Crawlers — fast and unpredictable.
-
-Bone Stalkers — heavy and slow, but deadly.
-
-The Hollowed — mini-boss creatures with unique attack patterns.
-
-Final Terror — an ancient nightmare lurking at the heart of the forest.
-
-Each enemy type requires different strategies — adapt or die.
-
-**🧭 Goals & Objectives**
-
-Defend Aldenheim by slaying all creepy enemies.
-
-Explore haunted zones to uncover hidden paths, loot, and potions.
-
-Defeat mini-bosses to weaken the curse’s power.
-
-Confront and destroy the Final Terror to restore peace to the village.
-
-**🧍 Character Design: The Swordsman**
-
-A silent warrior with a scarred past.
-
-Light armor, fast and agile.
-
-His sword is his lifeline — no magic, no guns, only steel.
+🩸 2. Core Gameplay
+Genre:
+2D Action-Adventure / Hack & Slash
+Combat System (Pure Melee Sword Combat):
+Fast, fluid, timing-based sword attacks
+Light Attack – quick, low damage
+Heavy Slash – slower, high damage
+Precision Strike – deals bonus damage when timed perfectly
+No magic, no guns — only steel and skill
 
 
+Health System:
+Single Health Bar determines survival
+Healing Potions scattered across the map
+No stamina, no mana — survive through reflex and timing
 
-**🗺️ Game Features
-**
-Fast-paced sword combat — every hit matters.
 
-No complicated systems — easy to learn, hard to master.
+👹 3. Enemy Types
+Shadow Crawlers
+Fast, unpredictable, swarm-like
+Best countered with quick attacks and movement
+Dark Spirit
+Long-range green death beam (poison-like damage)
+Steals life, BUT restores life to the player when killed
+High priority target
+The Hollowed
+Smaller corrupted creatures
+Often appear in groups
+The Final Terror
+Ancient nightmare lurking in the heart of the forest
+Main boss, responsible for the curse
+Requires strong movement and precision to defeat
+Each enemy has unique behaviors, demanding adaptation and strategy.
 
-Exploration-focused maps — discover secrets, shortcuts, and hidden enemies.
+🧭 4. Goals & Objectives
+Main Objectives
+Rescue the people of Aldenheim by slaying all twisted monsters
+Explore haunted zones to find paths, loot, and healing potions
+Confront the Final Terror and lift the curse
+Player Motivation
+Justice for Aldenheim
+Save the protagonist’s kidnapped family
+Restore peace and hope
 
-Healing pickups to survive long battles.
 
-Dynamic enemy spawns — no two runs feel the same.
+🧍 5. Character Design: The Swordsman
+Once a simple villager
+Becomes a warrior out of necessity
+Fast, agile, and determined
+Wears light armor for speed
+Relies solely on his sword, instinct, and courage
 
-Boss fights with unique mechanics and patterns.
 
-**⚔️ Game Loop**
+🗺️ 6. Game Features
+Fast-paced, skill-based sword combat
+Simple systems: Health bar + potion count only
+Healing pickups for longer survival
+2D pixel or voxel art style
+Exploration-based level progression
+Story-driven boss encounters
 
-Enter a zone infested by creepy enemies.
+⚔️ 7. Core Gameplay Loop
+Enter an enemy-infested zone
+Fight through waves using sword attacks
+Pick up healing potions to stay alive
+Clear the area by defeating all creatures
+Reach the portal at the end of the level
+Progress deeper into the cursed forest
+Face the Final Terror to restore peace
 
-Fight through waves using sword combat.
+This loop repeats and evolves with increasing difficulty, new enemy types, and narrative progression.
 
-Pick up healing potions to survive longer.
+🎮 8. Control Scheme
+Action
+Key/Button
+Description
+Move Left
+A / Left Arrow
+Move player left
+Move Right
+D / Right Arrow
+Move player right
+Jump
+Spacebar
+Player jumps
+Attack
+Left Mouse Button
+Sword attack
+Run
+Hold movement input
+Player runs instead of walking
 
-Defeat a mini-boss to clear the area.
 
-Progress deeper into the cursed forest.
-
-Confront the Final Terror to lift the curse.
-
-**💻 Technical Specs / Platform**
-
-Platform: PC 
-
-Engine: Unity 
-
+💻 9. Technical Specs
+Platform: PC
+Engine: Unity
 Art Style: 2D pixel or voxel
+HUD: Health bar + potion counter
+Input: Controller & keyboard support
 
-**Core System:
-**
-Health bar only (no stamina/energy)
 
-Simple HUD (Health + Potion count)
+🌟 10. Player Fantasy / Promise
+This is not a battle of magic or destiny — it is a battle of pure skill.
+Every strike matters.
+Every dodge is life or death.
+Every moment pushes you closer to reclaiming Aldenheim.
+Grab your sword.
+Face the darkness.
+Become the legend —
+Become the Pillar of Hope.
 
-Controller or keyboard support
-
-🌟 Player Promise
-
-This isn’t a fight of magic or destiny.
-It’s a battle of steel, skill, and survival.
-
-⚔️ Grab your sword. Face the darkness. Become the legend.
